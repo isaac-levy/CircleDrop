@@ -1,6 +1,6 @@
 # CircleDrop
 
-This Android game has a simple objective, to match falling coloured circles to the bucket of the corresponding color at the bottom of the screen. 
+Android game where the goal is to match falling coloured circles to the bucket with the same colour at the bottom of the screen. 
 
 Stack/Libraries:
 - Kotlin
